@@ -1,2 +1,2 @@
 # goGetEm
-Go Basics
+Go Practice
